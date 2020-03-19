@@ -34,10 +34,14 @@ public class Main {
         pc1.adaugaProcesor(c1);
         pc1.adaugaProcesor(c2);
 
-        ProcesorCompus pc2 = new ProcesorCompus();
-        pc2.adaugaProcesor(pc1);
-        pc2.adaugaProcesor(c3);
+       // ProcesorCompus pc2 = new ProcesorCompus();
+        //pc2.adaugaProcesor(pc1);
+        //pc2.adaugaProcesor(c3);
 
+<<<<<<< HEAD
         //System.out.println(pc2.proceseaza(documente));
+=======
+     //   System.out.println(pc2.proceseaza(documente));
+>>>>>>> newBranch
     }
 }
